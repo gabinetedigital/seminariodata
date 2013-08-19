@@ -164,8 +164,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 "Renato Rovai","Venício Lima","Antônio Martins","Lino Bocchini","Luiz Carlos Azenha","Joaquim Ernesto Palhares"
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -176,7 +176,7 @@
             "convidados":[
                 ""
             ],
-            "moderador":"",
+            "moderador":""
         },
         {
             "dia":"6",
@@ -186,8 +186,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 "Sergio Amadeu","Luis Nassif","Wilson Gomes","Ronaldo Lemos","Pablo Capilé"
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -197,8 +197,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 "Bernardo Gutiérrez","André Rubião","Eiríkur Bergmann","Benedito Tadeu César","Celi Pinto"
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -208,8 +208,8 @@
             "local":"Casa de Cultura Mário Quintana",
             "convidados":[
                 ""
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -219,8 +219,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 ""
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -230,8 +230,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 ""
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -241,8 +241,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 ""
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
         {
             "dia":"6",
@@ -252,8 +252,8 @@
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
                 ""
-            ]
-            "moderador":"",
+            ],
+            "moderador":""
         },
     ]
 }
