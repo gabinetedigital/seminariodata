@@ -118,12 +118,142 @@
     ],
     "agenda":[
         {
-            "dia":"",
-            "nome":"",
+            "dia":"5",
+            "hora":"17h30min",
+            "nome":"Entrega dos resultados das consultas públicas sobre reforma política feitas pelo Governo do Estado à bancada gaúcha",
+            "descricao": "Enquanto as ruas pediam mais participação e questionavam a democracia representativa, o Gabinete Digital propôs o debate e realizou uma consulta pública sobre a reforma política. Durante 16 dias de julho, ela teve mais de 2,8 mil propostas cadastradas e contou com mais de 180 mil votos da população. Ao final, dez propostas foram priorizadas pelos participantes. Um mês depois, os gaúchos deram sua opinião sobre o tema durante a Votação das Prioridades do Orçamento de 2014, realizada pela Secretaria de Planejamento, Gestão e Participação Cidadã (Seplag). O relatório final sistematizando os resultados dos dois processos consultivos vai ser entregue pelo governador Tarso Genro aos deputados federais e senadores gaúchos, com o objetivo de contribuir para o debate no Congresso Nacional.",
+            "local":"Palácio Piratini",
+            "convidados":[]
+        },
+        {
+            "dia":"5",
+            "hora":"18h",
+            "nome":"Abertura - Representação política no século XXI: crise e alternativas",
+            "descricao": "Os sistemas democráticos contemporâneos, baseados na representação política, apresentam sinais cada vez mais evidentes de esgotamento, principalmente a partir das grandes mobilizações que em 2011 sacudiram diversos países do mundo. No Brasil, foi 2013 o ano da insatisfação. Movimentos massivos saíram das redes para as ruas, construindo novas formas de organização e questionando as instituições democráticas tradicionais. Entre os milhões de jovens que protagonizaram os protestos em todo o mundo, há anseios comuns: mais e melhores instrumentos de participação, controle social, deliberação e democracia direta. Contextualizar a crise global de representação e apontar alternativas de escape são as propostas da mesa de abertura.",
+            "local":"Palácio Piratini",
+            "convidados":[
+                "Tarso Genro","Dalmo Dallari","Fernando Abrúcio","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif"
+            ],
+            "moderador":"Vinícius Wu"
+        },
+        {
+            "dia":"5",
+            "hora":"21h",
+            "nome":"Jantar com o governador",
+            "descricao": "",
+            "local":"Palácio Piratini",
+            "convidados":[
+                ""
+            ]
+        },
+        {
+            "dia":"6",
+            "hora":"8h30min",
+            "nome":"Credenciamento",
+            "descricao": "",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+        },
+        {
+            "dia":"6",
+            "hora":"9h",
+            "nome":"Narrativas independentes e reforma da comunicação",
+            "descricao": "Incapaz de dialogar com os novos movimentos e indivíduos atomizados que saíram às ruas, a grande mídia viu-se entre os principais alvos das manifestações que eclodiram no país. O cenário colocou em evidência o alcance de narrativas alternativas e veículos independentes, distantes dos grupos hegemônicos de comunicação e próximos das ruas e da cultura digital. Em especial, o jornalismo colaborativo produziu versões dos fatos que entraram em franco conflito com as informações oficiais e relatos de veículos tradicionais. Refletir sobre tal conjuntura é o objetivo desta mesa.",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                "Renato Rovai","Venício Lima","Antônio Martins","Lino Bocchini","Luiz Carlos Azenha","Joaquim Ernesto Palhares"
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"12h",
+            "nome":"Almoço",
+            "descricao": "",
             "local":"",
             "convidados":[
-                {"nome":""}
+                ""
+            ],
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"14h",
+            "nome":"Novas tecnologias e reforma das Instituições democráticas",
+            "descricao": "As novas tecnologias de informação e comunicação encurtaram distâncias, originaram dinâmicas próprias de vivências e relações sociais e uma absoluta transformação nas formas de acesso, produção e distribuição do conhecimento. A era da sociedade em rede também acirrou a crise de legitimidade da representação política, advinda de uma estrutura democrática formal presa ao território, incapaz de dialogar com os novos atores sociais emergentes da cultura digital, descentralizada e de caráter territorial difuso. Se as novas tecnologias são indissociáveis deste ambiente, é natural que sejam parte das soluções. As possibilidades estão abertas.",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                "Sergio Amadeu","Luis Nassif","Wilson Gomes","Ronaldo Lemos","Pablo Capilé"
             ]
-        }
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"16h30min",
+            "nome":"Experiências internacionais e formas inovadoras de representação",
+            "descricao": "Com a internet e as redes sociais, a globalização adquire novas perspectivas. Na sociedade em rede, experiências de diferentes países são interconectadas. Da indignação na Espanha em 2011 à tomada das ruas no Brasil dois anos depois, passando pelos movimentos de ocupação e pela Primavera Árabe, os estados democráticos são questionados e passam por uma reavaliação. Movimentos antes locais adquirem um caráter global e são ressignificados. Governos e governantes, partidos e dirigentes, movimentos sociais e seus ativistas buscam compreender e incidir sobre essa nova realidade.",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                "Bernardo Gutiérrez","André Rubião","Eiríkur Bergmann","Benedito Tadeu César","Celi Pinto"
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"19h",
+            "nome":"Coquetel de Encerramento / lançamento do livro",
+            "descricao": "",
+            "local":"Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"",
+            "nome":"",
+            "descricao": "",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"",
+            "nome":"",
+            "descricao": "",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"",
+            "nome":"",
+            "descricao": "",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+            "moderador":"",
+        },
+        {
+            "dia":"6",
+            "hora":"",
+            "nome":"",
+            "descricao": "",
+            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
+            "convidados":[
+                ""
+            ]
+            "moderador":"",
+        },
     ]
 }
