@@ -166,9 +166,7 @@
                 "nome":"Jantar com o governador",
                 "descricao": "",
                 "local":"Palácio Piratini",
-                "convidados":[
-                    ""
-                ]
+                "convidados":[]
             }
         ],
         "dia6":[
@@ -178,9 +176,7 @@
                 "nome":"Credenciamento",
                 "descricao": "",
                 "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
-                "convidados":[
-                    ""
-                ]
+                "convidados":[]
             },
             {
                 "dia":"6",
@@ -199,9 +195,7 @@
                 "nome":"Almoço",
                 "descricao": "",
                 "local":"",
-                "convidados":[
-                    ""
-                ],
+                "convidados":[],
                 "moderador":""
             },
             {
@@ -232,9 +226,7 @@
                 "nome":"Coquetel de Encerramento / lançamento do livro",
                 "descricao": "",
                 "local":"Casa de Cultura Mário Quintana",
-                "convidados":[
-                    ""
-                ],
+                "convidados":[],
                 "moderador":""
             }
         ]
