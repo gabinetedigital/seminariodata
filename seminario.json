@@ -3,117 +3,117 @@
         {
             "nome":"Tarso Genro",
             "minibio":"Governador do Estado do Rio Grande do Sul",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Maria Inês Nassif",
             "minibio":"Jornalista e mestre em Ciências Sociais. Trabalhou nos maiores jornais do país. Desde 2005 é colunista política - primeiro no Valor Econômico e, posteriormente, na Carta Maior. Atualmente, atua na Carta Maior e no Jornal GGN.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Dalmo Dallari",
             "minibio":" Jurista brasileiro, é professor emérito da Faculdade de Direito da USP. Entre suas principais obras, destaca-se “O Futuro do Estado”, em que trata do conceito de Estado mundial, do mundo sem Estados, dos chamados Super-Estados e dos múltiplos Estados do Bem-Estar. Em 1996, Dallari tornou-se o professor catedrático da Unesco na cadeira de Educação para a Paz, Direitos Humanos, Democracia e Tolerância, criada na Universidade de São Paulo.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Fernando Abrúcio",
             "minibio":"Sociólogo, mestre e doutor em Ciência Política pela USP, é professor e pesquisador da Fundação Getúlio Vargas (SP). Foi colunista do Jornal Valor Econômico e da Revista Época e hoje tem um programa na CBN sobre políticas públicas em São Paulo. Fernando Abrúcio pesquisa temas nas áreas de Ciência Política, Administração Pública, Políticas Públicas e Política Comparada, com ênfase em questões relacionadas às Relações Intergovernamentais e ao Federalismo, além de Reforma do Estado e gestão pública. ",
-            "tipo":""
+            "hangout":true
         },
         {
             "nome":"Altamiro Borges",
             "minibio":"Jornalista e blogueiro. Presidente do Centro de Mídia Alternativa Barão de Itararé e autor do livro \"Ditadura da Mídia\"",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Juarez Guimarães",
             "minibio":"Professor de Ciência Política da Universidade Federal de Minas Gerais e pesquisador do Centro de Referências do Interesse Público e do Centro de Estudos Republicanos Brasileiros. É autor, entre outros, de “Democracia e marxismo: crítica à razão liberal” e “A esperança crítica” e co-organizador de “Dimensões políticas da Justiça” e “Corrupção: Ensaios e críticas”.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"João Pedro Stédile",
             "minibio":"Economista e ativista social, é membro da direção nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST), do qual é também um dos fundadores. Participa desde 1979 das atividades da luta pela reforma agrária no MST e na Via Campesina Brasil. É pós-graduado em Economia pela Universidade Nacional Autônoma do México. Stédile assessorou a Comissão Pastoral da Terra (CPT) no Rio Grande do Sul e em âmbito nacional e trabalhou na Secretaria da Agricultura do Rio Grande do Sul. Recebeu a medalha \"Mérito Legislativo\", concedida a personalidades brasileiras ou estrangeiras que realizaram ou realizam serviço de relevância para a sociedade.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Renato Rovai",
             "minibio":"Editor da Revista Fórum e presidente da Altercom (Associação de pequenas empresas e empreendedores individuais de comunicação). Mestre em Comunicação pela USP, atualmente é professor de Jornalismo na Faculdade Cásper Líbero e de pós-graduação na Escola de Comunicação e Artes da Universidade de São Paulo. ",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Venício A. de Lima",
             "minibio":" Jornalista, sociólogo, mestre, doutor e pós-doutor pelas Universidades de Illinois e de Miami. É professor-titular de Ciência Política e Comunicação aposentado da Universidade de Brasília, colaborador do Observatório da Imprensa, da Carta Maior e da revista Teoria e Debate e pesquisador do Centro de Estudos Republicanos Brasileiros, da UFMG. Foi fundador e primeiro coordenador do Núcleo de Estudos sobre Mídia e Política da UnB, assessor da Secretaria-Geral da Presidência da República e professor convidado da EPPG-UFRJ, UFPA, UFBA, UFMG, UCB e UCS, no Brasil, e das universidades de Illinois, Miami e Havana. É autor de, entre outros, “Mídia: teoria e política”, “Mídia: crise política e poder no Brasil”, “Diálogos da Perplexidade” e “Liberdade de Expressão x Liberdade de Imprensa”.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Antônio Martins",
             "minibio":"Jornalista e editor do site Outras Palavras. Foi fundador da edição brasileira do Le Monde Diplomatique e participou da construção de outras iniciativas de mídias livres, como Carta Maior e Ciranda. Integrou, pelo movimento ATTAC, o grupo de organizações brasileiras que lançou, em 2001, o Fórum Social Mundial, sendo integrante de seu Conselho Internacional.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Lino Bocchini",
             "minibio":"Jornalista, começou sua carreira nos jornais populares do grupo Folha (Folha da Tarde e seu sucessor, o Agora SP). Trabalhou na editora Abril e na Prefeitura de São Paulo, fazendo análise de mídia para o governo Marta Suplicy. Foi freelancer por dois anos antes de fixar-se na editora Trip, em 2007. Em 2011, foi autor da primeira entrevista que Julian Assange concedeu a um veículo brasileiro. Mantém o blog Desculpe a Nossa Falha e está envolvido em iniciativas ligadas à busca por uma comunicação mais plural. Desde março de 2013, é editor de mídia on-line da Carta Capital.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Luiz Carlos Azenha",
             "minibio":"Jornalista há 40 anos. Trabalha em TV desde 1980. Foi repórter e correspondente das emissoras Globo, Manchete, SBT e Record. Viveu quase duas décadas nos Estados Unidos, de onde viajou o mundo para cobrir eventos internacionais, dentre os quais a queda do muro de Berlim e a crise que precedeu a primeira invasão do Iraque. Foi o primeiro jornalista a entrevistar de improviso um líder soviético, Mikhail Gorbatchev, no Kremlin, em 1988. Há dez anos mantém um site na internet dedicado a debater assuntos que não saem na mídia corporativa.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Joaquim Ernesto Palhares",
             "minibio":"Carta Maior",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Sergio Amadeu",
             "minibio":"Sociólogo e doutor em Ciência Política pela Universidade de São Paulo. É professor da pós-graduação da Faculdade de Comunicação Cásper Líbero e autor de várias publicações, entre elas “Exclusão Digital: a miséria na era da informação”. Militante pelo Software Livre, foi um dos grandes implementadores dos Telecentros na América Latina e presidente do Instituto Nacional de Tecnologia da Informação.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Luis Nassif",
             "minibio":"Jornalista, é diretor superintendente da Agência Dinheiro Vivo, primeira empresa de informações eletrônicas do país, e comentarista econômico do Jornal da TV Brasil. Ganhador do Prêmio Comunique-se 2008 na Categoria Jornalista de Economia - Mídia Impressa. Ganhador dos Troféus Ibest 2008 de Melhor Blog de Política por indicações popular e Academia Ibest. Ganhador do Troféu Dia da Imprensa de Melhor Blog de Jornalismo 2007, pela Revista Imprensa.",
-            "tipo":""
+            "hangout":true
         },
         {
             "nome":"Wilson Gomes",
             "minibio":"Professor titutar de Teoria da Comunicação e orientador no Programa de Pós-Graduação em Comunicação e Culturas Contemporâneas na Universidade Federal da Bahia. É graduado, mestre e doutor em Filosofia pela Universitas a Scte. Thomae e graduado em Teologia pela Universitas Gregoriana, ambas de Roma. Doutorou-se em 1988 com uma tese sobre a ideia de construção da realidade no Idealismo Alemão, na Fenomenologia e na Hermenêutica. Desde 1989, Wilson Gomes ensina, pesquisa e orienta na área de Comunicação, nas especialidades de comunicação e política e democracia digital.  É autor de “Transformações da política na era da comunicação de massa” e de “Jornalismo, fatos e interesses” e co-autor de \"Comunicação & democracia: problemas e perspectivas\".",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Ronaldo Lemos",
             "minibio":"Advogado, professor e pesquisador, especialista em temas como tecnologia, mídia e propriedade intelectual. Fundador do Centro de Tecnologia e Sociedade da Escola de Direito da Fundação Getúlio Vargas (FGV), no Rio de Janeiro, e do Overmundo. É diretor do Creative Commons Brasil, pesquisador visitante do MIT Media Lab, professor visitante na universidade de Princeton e professor titular e coordenador da área de propriedade intelectual da Escola de Direito da FGV do Rio. Foi presidente do iCommons, organização voltada ao compartilhamento de conteúdo on-line. Apresenta na MTV Brasil um programa focado em tecnologia e tendências e escreve semanalmente para a Folha de S.Paulo. É um dos 13 membros do Conselho de Comunicação Social do Congresso e do Conselho Nacional de Combate à Pirataria, coordenado pelo Ministério da Justiça. É curador da categoria Ideia do Movimento HotSpot2.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Pablo Capilé",
             "minibio":"Integrante do Fora do Eixo, rede sociocultural de trabalhos colaborativos que conecta mais de 2 mil agentes, 27 estados brasileiros e 50 países da América Latina e que, nos últimos 10 anos, vem desenvolvendo tecnologias inovadoras, sociais e de gestão, na área da economia da cultura, por meio de práticas como a economia solidária, o midialivrismo e o compartilhamento livre de conhecimentos.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Celi Pinto",
             "minibio":"Possui graduação em Licenciatura em História pela Universidade Federal do Rio Grande do Sul (1972), mestrado em Ciência Política pela Universidade Federal do Rio Grande do Sul (1979) e doutorado em Doutorado em Ciência Política - University of Essex, Inglaterra (1986). Tem experiência na área de Ciência Política e História, com ênfase em Teoria Política, e História Política Brasileira atuando principalmente nos seguintes temas: história e politica brasileira, teoria da democracia, participação politica e feminismo. É professora Associada IV do Departamento de História da Universidade Federal do Rio Grande do Sul – Porto Alegre- Brasil É pesquisador 1b do CNPq",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Bernardo Gutiérrez",
             "minibio":"Jornalista, escritor, fundador da rede de inovação FuturaMedia.net. Pesquisa e participa do 15M da Espanha e de outras mutações da chamada Global Revolution.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"André Rubião",
             "minibio":"Doutor em Ciência Política pela Universidade Paris 8, é membro do Centro de Estudos Sociais da América Latina (CES-AL/UFMG) e professor da Faculdade de Direito Milton Campos (FDMC). Venceu o Prêmio CES para Jovens Cientistas Sociais de Língua Potuguesa da Universidade de Coimbra.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Eiríkur Bergmann",
             "minibio":"Politólogo, professor da Escola de Ciências Sociais da Bifröst University, da Islândia, e diretor do Centro de Estudos Europeus da mesma universidade. Eiríkur Bergmann foi membro do conselho constitucional de seu país, que elaborou aquela que é considerada a primeira constituição “crowdsourced” do mundo. Em 2011, após os massivos protestos contra a crise financeira na Islândia que colocaram em cheque o sistema político do país, o projeto de uma nova constituição foi elaborado recorrendo à participação dos cidadãos através das redes sociais . Bergmann conta essa experiência no livro “Iceland and the international finanical crisis: Boom, Bust & Recovery”.",
-            "tipo":""
+            "hangout":false
         },
         {
             "nome":"Benedito Tadeu César",
             "minibio":"Diretor do Instituto de Pesquisas e Projetos Sociais (InPrO), mestre em Antropologia Social e Sociologia pela Unicamp. Foi professor das Universidades Federais do Rio Grande do Sul e do Espírito Santo, coordenador do programa de pós-graduação em Ciência Política da UFRGS e diretor executivo do site Sul21.",
-            "tipo":""
+            "hangout":false
         }
     ],
     "agenda":[
@@ -132,7 +132,7 @@
             "descricao": "Os sistemas democráticos contemporâneos, baseados na representação política, apresentam sinais cada vez mais evidentes de esgotamento, principalmente a partir das grandes mobilizações que em 2011 sacudiram diversos países do mundo. No Brasil, foi 2013 o ano da insatisfação. Movimentos massivos saíram das redes para as ruas, construindo novas formas de organização e questionando as instituições democráticas tradicionais. Entre os milhões de jovens que protagonizaram os protestos em todo o mundo, há anseios comuns: mais e melhores instrumentos de participação, controle social, deliberação e democracia direta. Contextualizar a crise global de representação e apontar alternativas de escape são as propostas da mesa de abertura.",
             "local":"Palácio Piratini",
             "convidados":[
-                "Tarso Genro","Dalmo Dallari","Fernando Abrúcio","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif"
+                "Tarso Genro","Dalmo Dallari","Fernando Abrúcio *","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif"
             ],
             "moderador":"Vinícius Wu"
         },
@@ -185,7 +185,7 @@
             "descricao": "As novas tecnologias de informação e comunicação encurtaram distâncias, originaram dinâmicas próprias de vivências e relações sociais e uma absoluta transformação nas formas de acesso, produção e distribuição do conhecimento. A era da sociedade em rede também acirrou a crise de legitimidade da representação política, advinda de uma estrutura democrática formal presa ao território, incapaz de dialogar com os novos atores sociais emergentes da cultura digital, descentralizada e de caráter territorial difuso. Se as novas tecnologias são indissociáveis deste ambiente, é natural que sejam parte das soluções. As possibilidades estão abertas.",
             "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
             "convidados":[
-                "Sergio Amadeu","Luis Nassif","Wilson Gomes","Ronaldo Lemos","Pablo Capilé"
+                "Sergio Amadeu","Luis Nassif *","Wilson Gomes","Ronaldo Lemos","Pablo Capilé"
             ],
             "moderador":""
         },
