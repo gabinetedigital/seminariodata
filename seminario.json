@@ -210,50 +210,6 @@
                 ""
             ],
             "moderador":""
-        },
-        {
-            "dia":"6",
-            "hora":"",
-            "nome":"",
-            "descricao": "",
-            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
-            "convidados":[
-                ""
-            ],
-            "moderador":""
-        },
-        {
-            "dia":"6",
-            "hora":"",
-            "nome":"",
-            "descricao": "",
-            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
-            "convidados":[
-                ""
-            ],
-            "moderador":""
-        },
-        {
-            "dia":"6",
-            "hora":"",
-            "nome":"",
-            "descricao": "",
-            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
-            "convidados":[
-                ""
-            ],
-            "moderador":""
-        },
-        {
-            "dia":"6",
-            "hora":"",
-            "nome":"",
-            "descricao": "",
-            "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
-            "convidados":[
-                ""
-            ],
-            "moderador":""
-        },
+        }
     ]
 }
