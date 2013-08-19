@@ -1,0 +1,19 @@
+{
+    "palestrantes":[
+        {
+            "nome":"",
+            "minibio":"",
+            "tipo":""
+        }
+    ],
+    "agenda":[
+        {
+            "dia":"",
+            "nome":"",
+            "local":"",
+            "convidados":[
+                {"nome":""}
+            ]
+        }
+    ]
+}
