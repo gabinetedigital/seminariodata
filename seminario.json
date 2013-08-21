@@ -142,14 +142,6 @@
                     "Tarso Genro","Dalmo Dallari","Fernando Abrúcio *","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif"
                 ],
                 "moderador":"Vinícius Wu"
-            },
-            {
-                "dia":"5",
-                "hora":"21h",
-                "nome":"Jantar com o governador",
-                "descricao": "",
-                "local":"Palácio Piratini",
-                "convidados":[]
             }
         ],
         "dia6":[
@@ -164,21 +156,12 @@
             {
                 "dia":"6",
                 "hora":"9h",
-                "nome":"Narrativas independentes e reforma da comunicação",
+                "nome":"Novas narrativas e reforma da comunicação",
                 "descricao": "Incapaz de dialogar com os novos movimentos e indivíduos atomizados que saíram às ruas, a grande mídia viu-se entre os principais alvos das manifestações que eclodiram no país. O cenário colocou em evidência o alcance de narrativas alternativas e veículos independentes, distantes dos grupos hegemônicos de comunicação e próximos das ruas e da cultura digital. Em especial, o jornalismo colaborativo produziu versões dos fatos que entraram em franco conflito com as informações oficiais e relatos de veículos tradicionais. Refletir sobre tal conjuntura é o objetivo desta mesa.",
                 "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
                 "convidados":[
                     "Renato Rovai","Venício Lima","Antônio Martins","Lino Bocchini","Luiz Carlos Azenha","Joaquim Ernesto Palhares"
                 ],
-                "moderador":""
-            },
-            {
-                "dia":"6",
-                "hora":"12h",
-                "nome":"Almoço",
-                "descricao": "",
-                "local":"",
-                "convidados":[],
                 "moderador":""
             },
             {
@@ -206,7 +189,7 @@
             {
                 "dia":"6",
                 "hora":"19h",
-                "nome":"Coquetel de Encerramento / lançamento do livro",
+                "nome":"Coquetel de Encerramento",
                 "descricao": "",
                 "local":"Casa de Cultura Mário Quintana",
                 "convidados":[],
