@@ -62,7 +62,7 @@
             "hangout":false
         },
         {
-            "nome":"Joaquim Ernesto Palhares",
+            "nome":"Joaquim Palhares",
             "minibio":"Carta Maior",
             "hangout":false
         },
@@ -114,6 +114,11 @@
         {
             "nome":"Benedito Tadeu César",
             "minibio":"Diretor do Instituto de Pesquisas e Projetos Sociais (InPrO), mestre em Antropologia Social e Sociologia pela Unicamp. Foi professor das Universidades Federais do Rio Grande do Sul e do Espírito Santo, coordenador do programa de pós-graduação em Ciência Política da UFRGS e diretor executivo do site Sul21.",
+            "hangout":false
+        },
+        {
+            "nome":"Natalia Viana",
+            "minibio":"Jornalista independente, tem experimentado na prática a transformação das bases do jornalismo. Repórter investigativa, ela começou a carreira em 2002 na revista Caros Amigos, de São Paulo, e realizou diversos trabalhos independentes. Em 2010, de volta ao Brasil depois de um mestrado em Londres, onde atuou no Centro de Jornalismo Investigativo e colaborou para veículos como The Guardian, BBC e Independent, Natalia foi contatada para coordenar, no Brasil, a sistematização e divulgação dos documentos vazados pela organização Wikileaks que expuseram, no caso brasileiro, as relações do governo norte-americano com a ditadura militar e as perseguições de governos a movimentos sociais, entre outros temas que sacudiram a arena política e sinalizaram o começo de uma revolução no jornalismo. Em 2011, Natalia Viana fundou a Agência Pública de Jornalismo, uma organização sem fins lucrativos voltada a fomentar o jornalismo investigativo no País.",
             "hangout":false
         }
     ],
