@@ -1,5 +1,6 @@
 {
     "linkaovivo": true,
+    "mostra_formulario": true,
     "palestrantes":[
         {
             "nome":"Tarso Genro",
