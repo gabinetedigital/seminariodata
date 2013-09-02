@@ -73,11 +73,6 @@
             "hangout":false
         },
         {
-            "nome":"Luis Nassif",
-            "minibio":"Jornalista, é diretor superintendente da Agência Dinheiro Vivo, primeira empresa de informações eletrônicas do país, e comentarista econômico do Jornal da TV Brasil. Ganhador do Prêmio Comunique-se 2008 na Categoria Jornalista de Economia - Mídia Impressa. Ganhador dos Troféus Ibest 2008 de Melhor Blog de Política por indicações popular e Academia Ibest. Ganhador do Troféu Dia da Imprensa de Melhor Blog de Jornalismo 2007, pela Revista Imprensa.",
-            "hangout":true
-        },
-        {
             "nome":"Wilson Gomes",
             "minibio":"Professor titutar de Teoria da Comunicação e orientador no Programa de Pós-Graduação em Comunicação e Culturas Contemporâneas na Universidade Federal da Bahia. É graduado, mestre e doutor em Filosofia pela Universitas a Scte. Thomae e graduado em Teologia pela Universitas Gregoriana, ambas de Roma. Doutorou-se em 1988 com uma tese sobre a ideia de construção da realidade no Idealismo Alemão, na Fenomenologia e na Hermenêutica. Desde 1989, Wilson Gomes ensina, pesquisa e orienta na área de Comunicação, nas especialidades de comunicação e política e democracia digital.  É autor de “Transformações da política na era da comunicação de massa” e de “Jornalismo, fatos e interesses” e co-autor de \"Comunicação & democracia: problemas e perspectivas\".",
             "hangout":false
@@ -150,15 +145,15 @@
                 "descricao": "Os sistemas democráticos contemporâneos, baseados na representação política, apresentam sinais cada vez mais evidentes de esgotamento, principalmente a partir das grandes mobilizações que em 2011 sacudiram diversos países do mundo. No Brasil, foi 2013 o ano da insatisfação. Movimentos massivos saíram das redes para as ruas, construindo novas formas de organização e questionando as instituições democráticas tradicionais. Entre os milhões de jovens que protagonizaram os protestos em todo o mundo, há anseios comuns: mais e melhores instrumentos de participação, controle social, deliberação e democracia direta. Contextualizar a crise global de representação e apontar alternativas de escape são as propostas da mesa de abertura.",
                 "local":"Palácio Piratini",
                 "convidados":[
-                    "Tarso Genro","Dalmo Dallari","Fernando Abrúcio *","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif"
+                    "Tarso Genro","Dalmo Dallari","Fernando Abrúcio *","Altamiro Borges","Juarez Guimarães","João Pedro Stédile","Maria Inês Nassif","Vinícius Wu"
                 ],
-                "moderador":"Vinícius Wu"
+                "moderador":""
             }
         ],
         "dia6":[
             {
                 "dia":"6",
-                "hora":"8h30min",
+                "hora":"9h",
                 "nome":"Credenciamento",
                 "descricao": "",
                 "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
@@ -166,12 +161,12 @@
             },
             {
                 "dia":"6",
-                "hora":"9h",
+                "hora":"9h30",
                 "nome":"Novas narrativas e reforma da comunicação",
                 "descricao": "Incapaz de dialogar com os novos movimentos e indivíduos atomizados que saíram às ruas, a grande mídia viu-se entre os principais alvos das manifestações que eclodiram no país. O cenário colocou em evidência o alcance de narrativas alternativas e veículos independentes, distantes dos grupos hegemônicos de comunicação e próximos das ruas e da cultura digital. Em especial, o jornalismo colaborativo produziu versões dos fatos que entraram em franco conflito com as informações oficiais e relatos de veículos tradicionais. Refletir sobre tal conjuntura é o objetivo desta mesa.",
                 "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
                 "convidados":[
-                    "Renato Rovai","Venício Lima","Antônio Martins","Lino Bocchini","Luiz Carlos Azenha","Joaquim Ernesto Palhares"
+                    "Renato Rovai","Venício Lima","Antônio Martins","Lino Bocchini","Luiz Carlos Azenha","Joaquim Ernesto Palhares","Antônio E. Castro"
                 ],
                 "moderador":"Sandra Bitencourt (FDRH/UFRGS)"
             },
@@ -182,7 +177,7 @@
                 "descricao": "As novas tecnologias de informação e comunicação encurtaram distâncias, originaram dinâmicas próprias de vivências e relações sociais e uma absoluta transformação nas formas de acesso, produção e distribuição do conhecimento. A era da sociedade em rede também acirrou a crise de legitimidade da representação política, advinda de uma estrutura democrática formal presa ao território, incapaz de dialogar com os novos atores sociais emergentes da cultura digital, descentralizada e de caráter territorial difuso. Se as novas tecnologias são indissociáveis deste ambiente, é natural que sejam parte das soluções. As possibilidades estão abertas.",
                 "local":"Teatro Bruno Kiefer - Casa de Cultura Mário Quintana",
                 "convidados":[
-                    "Sergio Amadeu","Luis Nassif *","Wilson Gomes","Ronaldo Lemos","Pablo Capilé","Natália Viana"
+                    "Sergio Amadeu","Wilson Gomes","Ronaldo Lemos","Pablo Capilé","Natália Viana"
                 ],
                 "moderador":"Vinícius Wu"
             },
